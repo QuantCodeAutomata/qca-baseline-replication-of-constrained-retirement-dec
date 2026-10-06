@@ -1,0 +1,14 @@
+{
+  "makeham_params": {
+    "A": 0.0007,
+    "B": 0.0001,
+    "C": 1.09,
+    "age": 60.0
+  },
+  "expected_lifetime_makeham": 17.026973916505305,
+  "expected_lifetime_constant": 23.6,
+  "pi_const_at_x1": 0.2694632063952678,
+  "pi_mak_at_x1": 0.8437499999999999,
+  "br_const_at_x1": 0.03684435375222996,
+  "br_mak_at_x1": 0.03500359118431688
+}
